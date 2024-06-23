@@ -1,0 +1,13 @@
+com/example/usuario/model/LoginAttempt.class
+com/example/usuario/UsuarioApplication.class
+com/example/usuario/dto/mudarSenha.class
+com/example/usuario/kafka/KafkaProducer.class
+com/example/usuario/config/KeycloakConfig.class
+com/example/usuario/service/UsuarioService.class
+com/example/usuario/repository/UsuarioRepository.class
+com/example/usuario/config/SecurityConfig.class
+com/example/usuario/model/Usuario.class
+com/example/usuario/controller/UsuarioController.class
+KafkaConsumer.class
+com/example/usuario/repository/LoginAttemptRepository.class
+com/example/usuario/exception/GlobalExceptionHandler.class
